@@ -49,7 +49,7 @@ class Pianosa_aut : Default
 			{"Land_Sun_chair_F", { 6125.81, 2301.22, 0 }, 121.091 },
 			{"Land_ToiletBox_F", {3801.94, 4067.85, 0}, 299.046},
 			{"Land_cargo_addon02_V1_F", {3804.02, 4059.78, 0}, 297.818},
-			{ "ProtectionZone_Invisible_F", { 3287.76, 1924.99, 0 }, 359.93 }
+			{ "ProtectionZone_Invisible_F", { 3804.01, 4059.36, 0 }, 359.93 }
 	};
 	staticNpcPos[] = {
 			{ "C_man_hunter_1_F", { 3811.82, 4061.98, 0}, 250.773 },
