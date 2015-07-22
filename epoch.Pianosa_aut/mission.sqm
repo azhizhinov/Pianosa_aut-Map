@@ -2084,11 +2084,13 @@ class Intro
 {
 	addOns[]=
 	{
-		"a3_map_pianosa_aut"
+		"a3_map_pianosa_aut",
+		"btc_afghan_objects"
 	};
 	addOnsAuto[]=
 	{
-		"a3_map_pianosa_aut"
+		"a3_map_pianosa_aut",
+		"btc_afghan_objects"
 	};
 	randomSeed=10527092;
 	class Intel
@@ -2114,11 +2116,13 @@ class OutroWin
 {
 	addOns[]=
 	{
-		"a3_map_pianosa_aut"
+		"a3_map_pianosa_aut",
+		"btc_afghan_objects"
 	};
 	addOnsAuto[]=
 	{
-		"a3_map_pianosa_aut"
+		"a3_map_pianosa_aut",
+		"btc_afghan_objects"
 	};
 	randomSeed=5048201;
 	class Intel
