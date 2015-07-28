@@ -3,7 +3,7 @@ class Header
 {
  gameType = Sandbox;
  minPlayers = 1;
- maxPlayers = 100;
+ maxPlayers = 25;
 };
 respawn = "BASE";
 respawnDelay = 600;
@@ -56,20 +56,20 @@ class CfgEpochClient
 	
 	class Pianosa_aut {
 		blockedArea[] = {
-			{{4456.7549,6262.5693,0},200}, //ComplexAlpha
-			{{4415.9512,6765.0664,0},40}, //CastelloGandolfino
-			{{6338.0093,4071.1157,0},80}, //Oilrig
-			{{4149.7534,3429.2476,0},100}, //SolarFarm
-			{{2192.1787,2791.79,0},150}, //ComplexMike
-			{{2448.4766,3010.0098,0},100}, //ComplexTango
-			{{4533.6738,2161.2578,0},100}, //ComplexGamma
-			{{6088.7388,2304.7393,0},50}, //BoatTrader
-			{{4832.4546,2545.2344,0},300}, //Belpiano
-			{{5755.1938,3558.8623,0},300}, //Pianosa
-			{{2068.6021,3617.5151,0},300}, //Agira
-			{{5344.7935,3617.6616,0},80}, //GasStation
-			{{5027.6362,3299.3032,0},150}, //Constructions
-			{{3804.01,4059.3601,0},100} //TraderCity
+			{ { 4456.7549,6262.5693, 0 }, 200 }, //Complex Alpha
+			{ { 4415.9512,6765.0664, 0 }, 40 }, //Castello Gandolfino
+			{ { 6338.0093,4071.1157, 0 }, 80 }, //Oilrig
+			{ { 4149.7534,3429.2476, 0 }, 100 }, //Solar Farm
+			{ { 2192.1787,2791.79, 0 }, 150 }, //Complex Mike
+			{ { 2448.4766,3010.0098, 0 }, 100 }, //Complex Tango
+			{ { 4533.6738,2161.2578, 0 }, 100 }, //Complex Gamma
+			{ { 6088.7388,2304.7393, 0 }, 50 }, //Boat Trader
+			{ { 4832.4546,2545.2344, 0 }, 300 }, //Belpiano
+			{ { 5755.1938,3558.8623, 0 }, 300 }, //Pianosa
+			{ { 2068.6021,3617.5151, 0 }, 300 }, //Agira
+			{ { 5344.7935,3617.6616, 0 }, 80 }, //Gas Station
+			{ { 5027.6362,3299.3032, 0 }, 150 }, //Constructions
+			{ { 3804.01,4059.3601, 0 }, 100 } //Trader City
 		};
 		Rocks[] = {
 			"sharpstone_03_lc.p3d",
