@@ -6,4 +6,4 @@ Nice map for small community or last hero.
 Enjoy.
 
 Map files can be downloaded here:
-http://www.armaholic.com/page.php?id=27321
+http://www.armaholic.com/page.php?id=28418
